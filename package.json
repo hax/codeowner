@@ -1,0 +1,29 @@
+{
+  "name": "codeowner-util",
+  "version": "0.1.0",
+  "description": "codeowner util",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hax/codeowner.git"
+  },
+  "keywords": [
+    "codeowner",
+    "github"
+  ],
+  "author": "hax <johnhax@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hax/codeowner/issues"
+  },
+  "homepage": "https://github.com/hax/codeowner#readme",
+  "devDependencies": {
+    "typescript": "^2.7.1"
+  }
+}
